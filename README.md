@@ -1,5 +1,5 @@
 # rsschool-cv
-** Viktor Dmytrenko **
+## Viktor Dmytrenko 
 * _tel_. +380 50 3852585, _email:_ ouruberbox@gmail.com
 * Today **my goal is to live forever.** I decided to start small and move step by step. My plan is as follows:
 > Receive the title of Junior Developer upon retirement.
