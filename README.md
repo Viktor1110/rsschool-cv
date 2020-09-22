@@ -15,6 +15,8 @@ freelance projects - wherever they had the opportunity to demonstrate skills the
 * **Education:** Kyiv State Univercity, physical department.
 * **English:** I'll will be able to communicate 2 - 3 month later. 
 I have fogotten a lot of... :grinning:
+## https://Viktor1110.github.io/rsschool-cv/
 ### /to be continued/
+
 
 
